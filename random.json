@@ -1,7 +1,5 @@
 {
   "test": {
-    "text": {
-        "abc"
-    }
+    "text":"abc"
   }
 }
