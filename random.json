@@ -1,4 +1,6 @@
 
 {
-     "test" : "{"text":"abc"}"
+     "test" : {
+                "text":"abc"
+              }
 }
