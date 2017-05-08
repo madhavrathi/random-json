@@ -1,2 +1,2 @@
 # random-json
-Repository for testing random json
+Repository for testing random json formats
